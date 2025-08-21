@@ -43,7 +43,7 @@ SigmaGPT is an AI-powered content generation and smart semantic search assistant
       cd backend
       npm install
      
-  - **Frontend**
+   - **Frontend**
     ```bash
       cd ../frontend
       npm install
@@ -57,11 +57,11 @@ Create a .env file in the backend folder:
     - **DEEPSEEK_API_KEY=your_deepseek_api_key**
   
 4. **Run the app**
-   - **Backend:**
+   - **Backend**
      ```bash
-     npm run dev
+      npm run dev
 
-  - **Frontend:**
+   - **Frontend**
      ```bash
       npm start
        
