@@ -44,7 +44,7 @@ SigmaGPT is an AI-powered content generation and smart semantic search assistant
       npm install
      
    - **Frontend**
-    ```bash
+      ```bash
       cd ../frontend
       npm install
 
