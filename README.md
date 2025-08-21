@@ -38,32 +38,31 @@ SigmaGPT is an AI-powered content generation and smart semantic search assistant
    git clone https://github.com/your-username/SigmaGPT.git
    cd SigmaGPT
 2. **Install dependencies**
-  1. **Backend**
+   - **Backend**
      ```bash
-    cd backend
-    npm install
-
-
-  2. **Frontend**
-     ```bash
-    cd ../frontend
-    npm install
+      cd backend
+      npm install
+     
+  - **Frontend**
+    ```bash
+      cd ../frontend
+      npm install
 
 
 3. **Environment Variables**
 Create a .env file in the backend folder:
 
-  - **PORT=8080**
-  - **MONGO_URI=your_mongodb_uri**
-  - **DEEPSEEK_API_KEY=your_deepseek_api_key**
+    - **PORT=8080**
+    - **MONGO_URI=your_mongodb_uri**
+    - **DEEPSEEK_API_KEY=your_deepseek_api_key**
   
 4. **Run the app**
-  1. **Backend:**
+   - **Backend:**
      ```bash
      npm run dev
 
-  2. **Frontend:**
-  3. ```bash
+  - **Frontend:**
+     ```bash
       npm start
        
 ## Usage
